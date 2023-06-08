@@ -21,5 +21,8 @@
   "devDependencies": {
     "jest": "^29.5.0",
     "standard-version": "^9.5.0"
+  },
+  "standard-version": {
+    "issueUrlFormat": "https://yile.atlassian.net/jira/software/c/projects/CG2BMS/issues/CG2BMS-{{id}}"
   }
 }
