@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/HSNM2/git-tutorial/compare/v1.1.1...v1.2.0) (2023-06-08)
+
+
+### Features
+
+* **index:** 新增小瑪莉設定頁 Dashboard ([b7915a0](https://github.com/HSNM2/git-tutorial/commit/b7915a0ebde70b173a53b734af8bbfdf4d844209))
+* **package:** 調整 standard-version 的語法 ([020cfe9](https://github.com/HSNM2/git-tutorial/commit/020cfe925de8274cfc8e4ffa71906c1a3028ab89))
+
+
+### Bug Fixes
+
+* **小瑪莉設定頁:** 防呆邏輯判斷錯誤導致無法新增活動 ([55ca0e8](https://github.com/HSNM2/git-tutorial/commit/55ca0e884f6bbfd39377945b54abb64cbc7f097b)), closes [#492](https://yile.atlassian.net/jira/software/c/projects/CG2BMS/issues/CG2BMS-492)
+
 ### [1.1.1](https://github.com/HSNM2/git-tutorial/compare/v1.1.0...v1.1.1) (2023-06-08)
 
 
