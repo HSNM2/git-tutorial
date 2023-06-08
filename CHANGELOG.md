@@ -1,5 +1,14 @@
 # Changelog
 
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.1.1](https://github.com/HSNM2/git-tutorial/compare/v1.1.0...v1.1.1) (2023-06-08)
+
+
+### Bug Fixes
+
+* **common:** 修正錯誤 - 2 ([91c7cd6](https://github.com/HSNM2/git-tutorial/commit/91c7cd63b5302ae3d8a200fdbc9e45549699f5c7))
+
 ## 1.1.0 (2023-06-08)
 
 
